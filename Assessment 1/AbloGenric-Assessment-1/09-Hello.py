@@ -1,8 +1,8 @@
- #Creates a new function which is hello(). this function displays hello to the console.
 def hello() :
-    print("Hello")
+    print("Hello") #Displays 'hello' to the console
 
 def main() :
-    hello()
+    hello() #Calls the hello function
+
 if __name__ == '__main__':
     main()

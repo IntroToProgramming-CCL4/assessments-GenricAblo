@@ -5,7 +5,7 @@ for x in range(0, 51, 1):
 
 input("Click Enter for the next loop to begin: \n50 -> 0 in decrements of 1")
 #loop begins at 50 down to 0 in decrements of 1
-for x in range(50, 0, -1) :
+for x in range(50, -1, -1) :
     print(x)
     
 input("Click Enter for the next loop to begin: \n30 -> 50 in increments of 1")
