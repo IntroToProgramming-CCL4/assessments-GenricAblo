@@ -3,6 +3,6 @@ num1, num2 = 8, 10
 
 #Adds up the 2 variables.
 sum = num1 + num2
-
+ 
 #Displays the sum of the 2 variables.
 print(sum)
