@@ -18,4 +18,3 @@ except ValueError:
     
 #displayes the user info 
 print(f"Name :  {user_info["name"]} \n Hometown: {user_info["hometown"]} \n Age: {user_info["age"]}")
-
